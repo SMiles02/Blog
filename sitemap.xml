@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.suneetmahajan.com/posts/</loc>
-    <lastmod>2024-06-04T00:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/</loc>
-    <lastmod>2024-06-04T00:00:00+01:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/posts/amogus-trick/</loc>
+    <loc>http://localhost:1313/posts/amogus-trick/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/competitive-programming/</loc>
+    <loc>http://localhost:1313/tags/competitive-programming/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/graphs/</loc>
+    <loc>http://localhost:1313/tags/graphs/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/tutorial/</loc>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>
