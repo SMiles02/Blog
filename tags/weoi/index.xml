@@ -9,12 +9,11 @@
     <lastBuildDate>Sun, 14 Jul 2024 14:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/weoi/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>WEOI 2024 Editorial</title>
+      <title>Western European Olympiad in Informatics 2024 Editorial</title>
       <link>http://localhost:1313/posts/weoi-2024-editorial/</link>
       <pubDate>Sun, 14 Jul 2024 14:00:00 +0100</pubDate>
       <guid>http://localhost:1313/posts/weoi-2024-editorial/</guid>
-      <description>Here is a quick editorial for the problems from WEOI 2024, in order from easiest expected problem to hardest, along with my solutions.
-Mazes (mazes) Full Full Solution Code #include &amp;lt;vector&amp;gt; using namespace std; vector&amp;lt;vector&amp;lt;char&amp;gt;&amp;gt; solve(long long K) { if (K == 1) { return {{&amp;#39;.&amp;#39;}}; } vector&amp;lt;vector&amp;lt;char&amp;gt;&amp;gt; ans(200, vector&amp;lt;char&amp;gt;(200, &amp;#39;#&amp;#39;)); ans[0][0] = &amp;#39;.&amp;#39;; ans[199] = vector&amp;lt;char&amp;gt;(200, &amp;#39;.&amp;#39;); int x = 0; long long done = 0; for (int p = 0; done !</description>
+      <description>A quick explanation of the solutions from WEOI 2024, held in London, UK</description>
     </item>
   </channel>
 </rss>

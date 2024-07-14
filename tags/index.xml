@@ -6,13 +6,27 @@
     <description>Recent content in Tags on Suneet&#39;s Blog</description>
     <generator>Hugo -- 0.128.2</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Aug 2022 14:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2024 14:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Competitive-Programming</title>
       <link>http://localhost:1313/tags/competitive-programming/</link>
-      <pubDate>Sun, 28 Aug 2022 14:00:00 +0100</pubDate>
+      <pubDate>Sun, 14 Jul 2024 14:00:00 +0100</pubDate>
       <guid>http://localhost:1313/tags/competitive-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Editorial</title>
+      <link>http://localhost:1313/tags/editorial/</link>
+      <pubDate>Sun, 14 Jul 2024 14:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/editorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Weoi</title>
+      <link>http://localhost:1313/tags/weoi/</link>
+      <pubDate>Sun, 14 Jul 2024 14:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/weoi/</guid>
       <description></description>
     </item>
     <item>

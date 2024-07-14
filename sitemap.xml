@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/competitive-programming/</loc>
+    <lastmod>2024-07-14T14:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/editorial/</loc>
+    <lastmod>2024-07-14T14:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-14T14:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/weoi/</loc>
+    <lastmod>2024-07-14T14:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/weoi-2024-editorial/</loc>
+    <lastmod>2024-07-14T14:00:00+01:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/amogus-trick/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/competitive-programming/</loc>
-    <lastmod>2022-08-28T14:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/graphs/</loc>
-    <lastmod>2022-08-28T14:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tutorial/</loc>
