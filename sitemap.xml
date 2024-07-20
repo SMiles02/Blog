@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.suneetmahajan.com/posts/</loc>
+    <lastmod>2024-07-19T20:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.suneetmahajan.com/</loc>
+    <lastmod>2024-07-19T20:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://blog.suneetmahajan.com/tags/competitive-programming/</loc>
     <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
     <loc>https://blog.suneetmahajan.com/tags/editorial/</loc>
-    <lastmod>2024-07-14T14:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.suneetmahajan.com/posts/</loc>
-    <lastmod>2024-07-14T14:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.suneetmahajan.com/</loc>
     <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
     <loc>https://blog.suneetmahajan.com/tags/</loc>
