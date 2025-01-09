@@ -10,9 +10,9 @@
     <atom:link href="https://blog.suneetmahajan.com/tags/editorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Western European Olympiad in Informatics 2024 Editorial</title>
-      <link>https://blog.suneetmahajan.com/posts/weoi-2024-editorial/weoi-2024-editorial/</link>
+      <link>https://blog.suneetmahajan.com/posts/weoi-2024-editorial/</link>
       <pubDate>Sun, 14 Jul 2024 14:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/posts/weoi-2024-editorial/weoi-2024-editorial/</guid>
+      <guid>https://blog.suneetmahajan.com/posts/weoi-2024-editorial/</guid>
       <description>A quick explanation of the solutions from WEOI 2024, held in London, UK</description>
     </item>
   </channel>
