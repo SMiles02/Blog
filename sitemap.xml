@@ -2,46 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.suneetmahajan.com/posts/prime-cicadas/</loc>
+    <loc>http://localhost:1313/posts/prime-cicadas/</loc>
     <lastmod>2024-12-28T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/maths/</loc>
+    <loc>http://localhost:1313/tags/maths/</loc>
     <lastmod>2024-12-28T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-12-28T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-12-28T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-12-28T15:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/competitive-programming/</loc>
+    <loc>http://localhost:1313/tags/competitive-programming/</loc>
     <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/editorial/</loc>
+    <loc>http://localhost:1313/tags/editorial/</loc>
     <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/weoi/</loc>
+    <loc>http://localhost:1313/tags/weoi/</loc>
     <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/posts/weoi-2024-editorial/</loc>
+    <loc>http://localhost:1313/posts/weoi-2024-editorial/</loc>
     <lastmod>2024-07-14T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/posts/amogus-trick/</loc>
+    <loc>http://localhost:1313/posts/generic-template/</loc>
+    <lastmod>2024-06-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/template/</loc>
+    <lastmod>2024-06-04T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/amogus-trick/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/graphs/</loc>
+    <loc>http://localhost:1313/tags/graphs/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/tags/tutorial/</loc>
+    <loc>http://localhost:1313/tags/tutorial/</loc>
     <lastmod>2022-08-28T14:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/archives/</loc>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://blog.suneetmahajan.com/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

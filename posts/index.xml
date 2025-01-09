@@ -2,31 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Suneet&#39;s Blog</title>
-    <link>https://blog.suneetmahajan.com/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Suneet&#39;s Blog</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 28 Dec 2024 15:00:00 +0000</lastBuildDate>
-    <atom:link href="https://blog.suneetmahajan.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are You Worse at Maths than a Cicada?</title>
-      <link>https://blog.suneetmahajan.com/posts/prime-cicadas/</link>
+      <link>http://localhost:1313/posts/prime-cicadas/</link>
       <pubDate>Sat, 28 Dec 2024 15:00:00 +0000</pubDate>
-      <guid>https://blog.suneetmahajan.com/posts/prime-cicadas/</guid>
+      <guid>http://localhost:1313/posts/prime-cicadas/</guid>
       <description>How reading manga led to me spending two days reading about insect breeding cycles.</description>
     </item>
     <item>
       <title>Western European Olympiad in Informatics 2024 Editorial</title>
-      <link>https://blog.suneetmahajan.com/posts/weoi-2024-editorial/</link>
+      <link>http://localhost:1313/posts/weoi-2024-editorial/</link>
       <pubDate>Sun, 14 Jul 2024 14:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/posts/weoi-2024-editorial/</guid>
+      <guid>http://localhost:1313/posts/weoi-2024-editorial/</guid>
       <description>A quick explanation of the solutions from WEOI 2024, held in London, UK</description>
     </item>
     <item>
+      <title>Generic Template</title>
+      <link>http://localhost:1313/posts/generic-template/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/generic-template/</guid>
+      <description>Generic Blog Template</description>
+    </item>
+    <item>
       <title>Amogus Trick</title>
-      <link>https://blog.suneetmahajan.com/posts/amogus-trick/</link>
+      <link>http://localhost:1313/posts/amogus-trick/</link>
       <pubDate>Sun, 28 Aug 2022 14:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/posts/amogus-trick/</guid>
+      <guid>http://localhost:1313/posts/amogus-trick/</guid>
       <description>A self-named method to determine whether a binary system consisting of equations of the form xi = yi and xi =/= yi is solvable in O(α(n) + m) time and O(n) memory, along with its applications in theoretical computer science problems</description>
     </item>
   </channel>

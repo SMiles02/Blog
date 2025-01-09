@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tutorial on Suneet&#39;s Blog</title>
-    <link>https://blog.suneetmahajan.com/tags/tutorial/</link>
+    <link>http://localhost:1313/tags/tutorial/</link>
     <description>Recent content in Tutorial on Suneet&#39;s Blog</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en</language>
     <lastBuildDate>Sun, 28 Aug 2022 14:00:00 +0100</lastBuildDate>
-    <atom:link href="https://blog.suneetmahajan.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amogus Trick</title>
-      <link>https://blog.suneetmahajan.com/posts/amogus-trick/</link>
+      <link>http://localhost:1313/posts/amogus-trick/</link>
       <pubDate>Sun, 28 Aug 2022 14:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/posts/amogus-trick/</guid>
+      <guid>http://localhost:1313/posts/amogus-trick/</guid>
       <description>A self-named method to determine whether a binary system consisting of equations of the form xi = yi and xi =/= yi is solvable in O(α(n) + m) time and O(n) memory, along with its applications in theoretical computer science problems</description>
     </item>
   </channel>
