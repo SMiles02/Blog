@@ -4,17 +4,10 @@
     <title>Template on Suneet&#39;s Blog</title>
     <link>http://localhost:1313/tags/template/</link>
     <description>Recent content in Template on Suneet&#39;s Blog</description>
-    <generator>Hugo -- 0.146.5</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Apr 2025 17:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/template/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Final Year Project: Optimal Control &amp; Backpropagation</title>
-      <link>http://localhost:1313/posts/optimal-control/</link>
-      <pubDate>Thu, 17 Apr 2025 17:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/posts/optimal-control/</guid>
-      <description>My undergraduate thesis</description>
-    </item>
     <item>
       <title>Generic Template</title>
       <link>http://localhost:1313/posts/generic-template/</link>

@@ -2,66 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Suneet&#39;s Blog</title>
-    <link>https://blog.suneetmahajan.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Suneet&#39;s Blog</description>
-    <generator>Hugo -- 0.146.5</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Apr 2025 17:00:00 +0100</lastBuildDate>
-    <atom:link href="https://blog.suneetmahajan.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimal-Control</title>
-      <link>https://blog.suneetmahajan.com/tags/optimal-control/</link>
+      <link>http://localhost:1313/tags/optimal-control/</link>
       <pubDate>Thu, 17 Apr 2025 17:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/tags/optimal-control/</guid>
+      <guid>http://localhost:1313/tags/optimal-control/</guid>
       <description></description>
     </item>
     <item>
       <title>University</title>
-      <link>https://blog.suneetmahajan.com/tags/university/</link>
+      <link>http://localhost:1313/tags/university/</link>
       <pubDate>Thu, 17 Apr 2025 17:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/tags/university/</guid>
+      <guid>http://localhost:1313/tags/university/</guid>
       <description></description>
     </item>
     <item>
       <title>Maths</title>
-      <link>https://blog.suneetmahajan.com/tags/maths/</link>
+      <link>http://localhost:1313/tags/maths/</link>
       <pubDate>Sat, 28 Dec 2024 15:00:00 +0000</pubDate>
-      <guid>https://blog.suneetmahajan.com/tags/maths/</guid>
+      <guid>http://localhost:1313/tags/maths/</guid>
       <description></description>
     </item>
     <item>
       <title>Competitive-Programming</title>
-      <link>https://blog.suneetmahajan.com/tags/competitive-programming/</link>
+      <link>http://localhost:1313/tags/competitive-programming/</link>
       <pubDate>Sun, 14 Jul 2024 14:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/tags/competitive-programming/</guid>
+      <guid>http://localhost:1313/tags/competitive-programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Editorial</title>
-      <link>https://blog.suneetmahajan.com/tags/editorial/</link>
+      <link>http://localhost:1313/tags/editorial/</link>
       <pubDate>Sun, 14 Jul 2024 14:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/tags/editorial/</guid>
+      <guid>http://localhost:1313/tags/editorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Weoi</title>
-      <link>https://blog.suneetmahajan.com/tags/weoi/</link>
+      <link>http://localhost:1313/tags/weoi/</link>
       <pubDate>Sun, 14 Jul 2024 14:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/tags/weoi/</guid>
+      <guid>http://localhost:1313/tags/weoi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Template</title>
+      <link>http://localhost:1313/tags/template/</link>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/tags/template/</guid>
       <description></description>
     </item>
     <item>
       <title>Graphs</title>
-      <link>https://blog.suneetmahajan.com/tags/graphs/</link>
+      <link>http://localhost:1313/tags/graphs/</link>
       <pubDate>Sun, 28 Aug 2022 14:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/tags/graphs/</guid>
+      <guid>http://localhost:1313/tags/graphs/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>https://blog.suneetmahajan.com/tags/tutorial/</link>
+      <link>http://localhost:1313/tags/tutorial/</link>
       <pubDate>Sun, 28 Aug 2022 14:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/tags/tutorial/</guid>
+      <guid>http://localhost:1313/tags/tutorial/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Optimal-Control on Suneet&#39;s Blog</title>
-    <link>https://blog.suneetmahajan.com/tags/optimal-control/</link>
+    <link>http://localhost:1313/tags/optimal-control/</link>
     <description>Recent content in Optimal-Control on Suneet&#39;s Blog</description>
-    <generator>Hugo -- 0.146.5</generator>
+    <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
     <lastBuildDate>Thu, 17 Apr 2025 17:00:00 +0100</lastBuildDate>
-    <atom:link href="https://blog.suneetmahajan.com/tags/optimal-control/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/optimal-control/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Final Year Project: Optimal Control &amp; Backpropagation</title>
-      <link>https://blog.suneetmahajan.com/posts/optimal-control/</link>
+      <link>http://localhost:1313/posts/optimal-control/</link>
       <pubDate>Thu, 17 Apr 2025 17:00:00 +0100</pubDate>
-      <guid>https://blog.suneetmahajan.com/posts/optimal-control/</guid>
+      <guid>http://localhost:1313/posts/optimal-control/</guid>
       <description>My undergraduate thesis</description>
     </item>
   </channel>
