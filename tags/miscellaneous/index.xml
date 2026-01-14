@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Miscellaneous on Suneet&#39;s Blog</title>
+    <link>https://blog.suneetmahajan.com/tags/miscellaneous/</link>
+    <description>Recent content in Miscellaneous on Suneet&#39;s Blog</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Jan 2026 17:00:00 +0000</lastBuildDate>
+    <atom:link href="https://blog.suneetmahajan.com/tags/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day Guesser</title>
+      <link>https://blog.suneetmahajan.com/posts/day-guesser/</link>
+      <pubDate>Wed, 14 Jan 2026 17:00:00 +0000</pubDate>
+      <guid>https://blog.suneetmahajan.com/posts/day-guesser/</guid>
+      <description>A webapp that helps you learn to derive the day of the week for any date</description>
+    </item>
+  </channel>
+</rss>

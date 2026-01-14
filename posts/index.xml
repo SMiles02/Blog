@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Suneet&#39;s Blog</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 17 Apr 2025 17:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 14 Jan 2026 17:00:00 +0000</lastBuildDate>
     <atom:link href="https://blog.suneetmahajan.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day Guesser</title>
+      <link>https://blog.suneetmahajan.com/posts/day-guesser/</link>
+      <pubDate>Wed, 14 Jan 2026 17:00:00 +0000</pubDate>
+      <guid>https://blog.suneetmahajan.com/posts/day-guesser/</guid>
+      <description>A webapp that helps you learn to derive the day of the week for any date</description>
+    </item>
     <item>
       <title>Final Year Project: Optimal Control &amp; Backpropagation</title>
       <link>https://blog.suneetmahajan.com/posts/optimal-control/</link>
